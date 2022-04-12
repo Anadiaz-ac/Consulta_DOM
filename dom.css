@@ -1,0 +1,65 @@
+body{
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+    width: 1600px;
+    height: 1024px;
+}
+
+.titulo{
+
+    background-color:rgb(141, 158, 198);
+    text-align: center;
+    height: 120px;
+    width: 1600px;
+}
+
+h1{
+    position: absolute;
+    height: 100px;
+    width: 1600px;
+    top: 12px;
+    font-size: 50px;
+    text-align: center;
+ }
+
+.parrafo1{
+    font-size: x-large;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 1500px;
+}
+
+.parrafo2{
+
+    position: absolute;
+    font-size: x-large;
+    height: 500px;
+    width: 650px;
+    text-align: justify;
+}
+
+.contenedor-imagen{
+
+    position: absolute;
+    left: 750px;
+    width: 400px;
+    height: 500px;
+}
+
+
+.contenedor-p2{
+
+    position: absolute;
+    height: 700px;
+    left: 50px;
+    width: 1500px;
+}
+
+.ref{
+
+    position: absolute;
+    font-size: large;
+    width: 600px;
+    top: 80%;
+
+}
